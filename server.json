@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-adamscounty",
   "title": "Arcgis Adamscounty",
   "description": "Adams County GIS — Adams County, Colorado open geospatial data (ArcGIS).",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-adamscounty",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-adamscounty",
